@@ -1,6 +1,5 @@
 node_modules
 npm-debug.log
-typings
 *.js
 *.map
 !systemjs.config.js
